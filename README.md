@@ -1,2 +1,7 @@
 # excel-chart-test
-chart-test
+
+## install
+- XLSX
+- react-chartjs-2
+- chartjs
+- create-react-app
